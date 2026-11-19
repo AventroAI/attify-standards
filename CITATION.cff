@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "Cite the version of the standard you used, by its permanent link."
+title: "Attify standards"
+authors:
+  - name: "Attify"
+url: "https://attify.app/standards"
+license: LicenseRef-All-Rights-Reserved
+references:
+  - type: report
+    title: "Attify Audited Resolution Standard"
+    version: "0.11"
+    authors:
+      - name: "Attify"
+    url: "https://attify.app/standards/support-resolution/v/0.11"
+  - type: report
+    title: "Attify Audited Meeting Standard"
+    version: "0.6"
+    authors:
+      - name: "Attify"
+    url: "https://attify.app/standards/sales-meetings/v/0.6"
+  - type: report
+    title: "Attify Audited Booking Standard"
+    version: "0.6"
+    authors:
+      - name: "Attify"
+    url: "https://attify.app/standards/bookings/v/0.6"
